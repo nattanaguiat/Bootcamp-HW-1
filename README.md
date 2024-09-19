@@ -12,7 +12,7 @@ N/A
 ## Usage
 
 To use this project as an excersise you can review the HTML elements following the logical structure independent of styling and positioning. 
-For example, for each <div> code, replacing it for the correct semantic element like <header>, <nav>, <min>, etc. 
+For example, for each < div > code, replacing it for the correct semantic element like < header >, < nav >, < min >, etc. 
 Also adding code on the image elements like the alt attributes and finding the heading attributes in sequential order.
 
 ## Credits
